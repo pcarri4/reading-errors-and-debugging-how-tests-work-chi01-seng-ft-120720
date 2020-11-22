@@ -2,4 +2,4 @@ first_number = 2
 
 second_number = 1 
 
-sum(2 + 1)
+2 + 1 
