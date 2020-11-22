@@ -7,3 +7,5 @@ sum = 2 + 1
 difference = 2 - 1 
 
 product = 2 * 1 
+
+quotient = 2 / 1
